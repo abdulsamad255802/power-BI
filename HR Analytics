@@ -1,0 +1,42 @@
+Dashboard Title: HR Analytics Dashboard
+
+Introduction:
+Brief explanation of the dashboard's purpose and benefits.
+Overview of the key HR metrics covered in the dashboard.
+
+Employee Demographics:
+Visualizations showing the distribution of employees by age, gender, department, and location.
+Donut chart showing employee distribution across organizational levels.
+
+Employee Diversity :
+Visualizations showing the Seniors,Mid level,Juniors,Tables,Slicers,Union And Non union.
+All the above charts shows the Diversity across the organisation.
+
+Termination Analysis:
+Clustered bar Chart,Ribbon chart,Horizontal Funnel chart and line chart.
+Above visualizations showcasing Termination rates categorized by reason (voluntary, involuntary, retirement).
+
+Recruitment and Hiring:
+Created pages like Open positions,filled positions that shows the Hiring.
+pages shows the open positions,filled positions by organisation.
+Tree chart,funnel,donut,stacked column chart shows the open and filled positions by oraganisation.
+
+Compensation Insights:
+Pie chart displaying salary distribution across job levels and Tree chart displays across departments.
+tree chart showing salary distribution by job level.
+
+Awards:
+Line chart,tree chart shows awards by locations,years And Multi row card shiws the awrs values.
+Donut chart comparing benefits uptake by employee by groups.
+
+Employee Engagement:
+Line chart displaying employee engagement scores over time.
+Scatter plot correlating engagement scores with performance ratings.
+
+Time and Attendance:
+Calendar heatmap showing employee attendance patterns by day of the week and month.
+Line chart depicting average work hours by department.
+
+Conclusion:
+Recap of the most critical HR insights derived from the dashboard.
+Encouragement for HR decision-makers to use these insights for strategic planning.
